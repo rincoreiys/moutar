@@ -8,5 +8,5 @@ All of design and CSS belongs to me, im not using external library. Built with
 I've tested. Its working on cross browser.
    
 ## Demo link
-  [Link](https://www.moutar.herokuapp.com)
+  [Link](https://moutar.herokuapp.com)
 
